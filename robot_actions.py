@@ -6,7 +6,7 @@ class RIZEAction(object):
 
     def __init__(self):
 
-        self.rize_robot = ActionEngine("ROS")
+        self.rize_robot = ActionEngine("ROS", "listen")
         self.my_robot = Robot("TestRobot")
 
         self.robot_actions = {
