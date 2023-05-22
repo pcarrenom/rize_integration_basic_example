@@ -1,0 +1,12 @@
+certifi==2022.6.15
+kapuccino==0.1.0.9
+nep==0.5.3.9
+pip==22.1.2
+pyzmq==23.2.0
+rize==0.1.4.3
+setuptools==61.2.0
+sharo==0.0.0.5
+simplejson==3.17.6
+six==1.16.0
+transitions==0.8.11
+wheel==0.37.1
